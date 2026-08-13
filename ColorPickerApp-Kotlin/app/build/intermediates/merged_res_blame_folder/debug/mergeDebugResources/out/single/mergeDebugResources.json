@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/shalav/.gradle/daemon/8.7/com.example.colorpickerapp-debug-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/shalav/.gradle/daemon/8.7/com.example.colorpickerapp-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.colorpickerapp-debug-35:/layout_studententry.xml.flat",
+        "source": "com.example.colorpickerapp-main-37:/layout/studententry.xml"
+    },
+    {
+        "merged": "/Users/shalav/.gradle/daemon/8.7/com.example.colorpickerapp-debug-35:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/shalav/.gradle/daemon/8.7/com.example.colorpickerapp-main-37:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/shalav/.gradle/daemon/8.7/com.example.colorpickerapp-debug-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/shalav/.gradle/daemon/8.7/com.example.colorpickerapp-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/shalav/.gradle/daemon/8.7/com.example.colorpickerapp-debug-35:/layout_activity_second.xml.flat",
+        "source": "/Users/shalav/.gradle/daemon/8.7/com.example.colorpickerapp-main-37:/layout/activity_second.xml"
+    },
+    {
+        "merged": "/Users/shalav/.gradle/daemon/8.7/com.example.colorpickerapp-debug-35:/layout_activity_main.xml.flat",
+        "source": "/Users/shalav/.gradle/daemon/8.7/com.example.colorpickerapp-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.colorpickerapp-debug-35:/layout_activity_main.xml.flat",
+        "source": "com.example.colorpickerapp-main-37:/layout/activity_main.xml"
+    }
+]

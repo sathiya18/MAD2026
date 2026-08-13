@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.loginprofileapp-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.loginprofileapp-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.loginprofileapp-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.loginprofileapp-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.loginprofileapp-debug-31:/layout_activity_profile.xml.flat",
+        "source": "com.example.loginprofileapp-main-33:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.loginprofileapp-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.loginprofileapp-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.loginprofileapp-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.loginprofileapp-main-33:/layout/activity_main.xml"
+    }
+]
